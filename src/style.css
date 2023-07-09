@@ -1,5 +1,8 @@
+body{
+    background: linear-gradient(109.6deg, rgb(177, 173, 219) 11.2%, rgb(245, 226, 226) 91.1%);
+}
 .container{
-    margin-top: 50px;
+    margin-top: 80px;
     margin-bottom: 50px;
     margin-left: 50px;
     margin-right: 50px;
