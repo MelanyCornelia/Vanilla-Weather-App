@@ -3,10 +3,11 @@ border-style:solid;
 border-radius: 20px;
 border-width: 1px;
 border-color: blueviolet;
+padding: 10px;
 }
 
 h5{
-    margin-top: 30px;
+    margin-top: 40px;
     text-align: center;
     font-size: 5px;
 }
