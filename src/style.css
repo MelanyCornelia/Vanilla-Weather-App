@@ -1,4 +1,6 @@
 .weather-app-wrapper{
 border-style:solid;
 border-radius: 20%;
+border-width: 10px;
+border-color: blueviolet;
 }
