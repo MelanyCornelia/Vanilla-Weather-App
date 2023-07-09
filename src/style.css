@@ -10,10 +10,14 @@ h1{
     font-size: 10px;}
 
     ul{
-        font-size: 8px;
+        font-size: 10px;
         list-style: none }
+
+        .DailyTemperatures{
+            font-size: 10px;
+        }
 h5{
-    margin-top: 40px;
+    margin-top: 50px;
     text-align: center;
     font-size: 1px;
 }
