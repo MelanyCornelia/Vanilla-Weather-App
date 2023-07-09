@@ -12,8 +12,8 @@ border-radius: 20px;
 border-width: 1px;
 border-color: blueviolet;
 padding: 20px;
-margin-left: 70px;
-margin-right: 70px;
+margin-left: 80px;
+margin-right: 80px;
 }
 
 h1{
@@ -25,9 +25,10 @@ h1{
 
         .DailyTemperatures{
             font-size: 10px;
+            padding: 10px;
         }
 .CreditPage{
-    margin-top: 20px;
+    margin-top: 30px;
     text-align: center;
     font-size: 10px;
 }
