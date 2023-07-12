@@ -1,5 +1,6 @@
 body{
-    background-image: url("src/Galaxy.jpg");
+    background-color: linear-gradient(109.6deg, rgb(177, 173, 219) 11.2%, rgb(245, 226, 226) 91.1%);
+    background-image: url("../src/Galaxy.jpg");
 }
 
 .container{
