@@ -1,5 +1,6 @@
 body{
-    background-image: https://imgur.com/a/uSNDjRC (" galaxy");
+    background-color: linear-gradient(109.6deg, rgb(177, 173, 219) 11.2%, rgb(245, 226, 226) 91.1%);
+    background-image: url(https://imgur.com/a/uSNDjRC);
 }
 
 .container{
