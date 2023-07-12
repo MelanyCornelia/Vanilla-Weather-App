@@ -11,6 +11,7 @@ border-style:solid;
 border-radius: 20px;
 border-width: 1px;
 border-color: blueviolet;
+background-color: linear-gradient(to top, #30cfd0 0%, #330867 100%);;
 padding: 20px;
 margin-left: 200px;
 margin-right: 200px;
