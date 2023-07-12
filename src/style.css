@@ -1,8 +1,9 @@
-
+body{
+    background: linear-gradient(109.6deg, rgb(177, 173, 219) 11.2%, rgb(245, 226, 226) 91.1%);
+}
 .container{
     margin-top: 130px;
     margin-bottom: 50px;
-    background: linear-gradient(109.6deg, rgb(177, 173, 219) 11.2%, rgb(245, 226, 226) 91.1%);
 }
 
 .weather-app-wrapper{
